@@ -47,5 +47,8 @@
     "type": "git",
     "url": "https://github.com/Developer-Tools-Discord/AstroMusic"
   },
-  "keywords": []
+  "keywords": [],
+  "engines": {
+    "node": "18.x"
+  }
 }
